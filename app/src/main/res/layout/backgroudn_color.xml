@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="234dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="234dp"
+    tools:ignore="WrongFolder">
+    <color android:name="hellblau">#3F51B5</color>
+</resources>
